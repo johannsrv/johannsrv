@@ -8,7 +8,7 @@
 
 - 🤖 Programador IA
 - 🦾 Ingeniero Mecatronico
-- 👨‍💻 Conocimiento en tensorflow y pytorch
+- 👨‍💻 Conocimiento en tensorflow, pytorch, numpy, pandas y Scikit-learn
 - 📓 NPL
 - 📽️ Vision por conputador
   
