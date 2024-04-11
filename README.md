@@ -36,7 +36,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica, con conoc
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AprendeIngenia">
+  <a href="https://github.com/johannsrv">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AprendeIngenia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johannsrv&layout=compact&langs_count=8&theme=algolia"/>
   </a>
