@@ -10,10 +10,25 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
+Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica, con conocimiento en el desarrollo de modelos de IA y soluciones integrales relacionadas. Mi pasión se refleja en mi GitHub con diversos proyectos personares 
+
 - 🤖 Programador IA
 - 🦾 Ingeniero Mecatronico
 - 👨‍💻 Conocimiento en tensorflow, pytorch, numpy, pandas y Scikit-learn
 - 📓 NPL
 - 📽️ Vision por conputador
   
+## Habilidades y lenguajes:
+
+### Lenguajes:
+[![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
+
+### Habilidades:
+[![My Skills](https://skillicons.dev/icons?i=github,anaconda,Jupyter,Google_Colab&perline=9)](https://skillicons.dev)
+
+### Software y herramientas:
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow&perline=9)](https://skillicons.dev)
+
+### Otros:
+[![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
 
