@@ -31,7 +31,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica, con conoc
 
 
 ## Contacto:
-<a href="mailto:johann.rodriguezv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ohann.rodriguezv@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:johann.rodriguezv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-johann.rodriguezv@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
