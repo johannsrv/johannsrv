@@ -30,4 +30,6 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica, con conoc
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,vscode&perline=9)](https://skillicons.dev)
 
 
+## Contacto:
+<a href="mailto:johann.rodriguezv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
