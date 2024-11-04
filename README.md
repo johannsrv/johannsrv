@@ -21,10 +21,10 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica, con conoc
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,arduino&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=github,anaconda,vscode,notion,linux&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,anaconda,vscode,notion,linux,docker&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,fastapi,flask&perline=9)](https://skillicons.dev)
